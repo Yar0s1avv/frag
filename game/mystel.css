@@ -1,0 +1,11 @@
+body {
+    font-family: URW Chancery L, cursive;
+    background-color: gray;
+};
+
+.header{
+    font-family: URW Chancery L, cursive;
+    color: mediumspringgreen;
+    height: 150%;
+    width: 135%;
+}
